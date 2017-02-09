@@ -1,0 +1,6 @@
+C:\Users\jreplogle\Documents\Visual Studio 2015\Projects\TeamPowered\InheritanceBasicPractice1\InheritanceBasicPractice1\bin\Debug\InheritanceBasicPractice1.exe.config
+C:\Users\jreplogle\Documents\Visual Studio 2015\Projects\TeamPowered\InheritanceBasicPractice1\InheritanceBasicPractice1\bin\Debug\InheritanceBasicPractice1.exe
+C:\Users\jreplogle\Documents\Visual Studio 2015\Projects\TeamPowered\InheritanceBasicPractice1\InheritanceBasicPractice1\bin\Debug\InheritanceBasicPractice1.pdb
+C:\Users\jreplogle\Documents\Visual Studio 2015\Projects\TeamPowered\InheritanceBasicPractice1\InheritanceBasicPractice1\obj\Debug\InheritanceBasicPractice1.csprojResolveAssemblyReference.cache
+C:\Users\jreplogle\Documents\Visual Studio 2015\Projects\TeamPowered\InheritanceBasicPractice1\InheritanceBasicPractice1\obj\Debug\InheritanceBasicPractice1.exe
+C:\Users\jreplogle\Documents\Visual Studio 2015\Projects\TeamPowered\InheritanceBasicPractice1\InheritanceBasicPractice1\obj\Debug\InheritanceBasicPractice1.pdb
